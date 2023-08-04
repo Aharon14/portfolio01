@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-image: url(ss.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+    
+   
+}
+header{background-color: rgba(4, 7, 33, 0.897);
+       height:100px;
+       padding: 20px;
+       }
+ul li{
+    display:inline;
+    color: rgb(169, 102, 20);
+    padding:20px;
+}
+h1{
+    color: aliceblue;
+}
+ul li a{color:bisque;
+         text-decoration: none;}
+
+#Home img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+#Portfolio{
+
+background-color:  rgba(207, 210, 249, 0.897);
+}
+
+
+
+    footer
+    {
+       height:"150px";
+      
+       background-color: black;
+   
+    }
